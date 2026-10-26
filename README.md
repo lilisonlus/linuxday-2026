@@ -1,6 +1,6 @@
 # Linux Day 2026 - Benevento - LILIS
 
-26 ottobre 2026
+24 ottobre 2026
 
 Unisannio "51S", complesso S. Agostino
 
